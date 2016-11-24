@@ -1,0 +1,40 @@
+Captain's Game
+Learn what it is like to be a true leader
+
+
+Rules (Single Ship):
+-Captain is picked (Captain does not change shirt or crew member cards)
+-Alive crew members are returned to the pile
+-Alive shirts are returned to the pile
+-Killed crew members are discarded
+-Killed shirts are discarded
+-Everyone gets shirt cards
+-Disposable shirt card is flipped. If captain is disposable, then they are forced onto the mission
+-Away mission is picked
+-Captain assigns people roles to go on away mission
+-Away missions starts
+-Away mission crew pick up their crew member cards
+-Captain has special deck to choose from to help on missions
+-Crew has special deck to choose from to help on missions
+
+-Mission Objects are resolved
+-If non-disposable character is killed, take 1 hit to the crew.
+-If full party wipe, take 1 hit to the ship
+-If captain is killed, take 1 hit to the ship
+Ship has 10 HP.
+
+Ship is lost when it loses all HP.
+You get 3 ships, 15 crew, and full crew deck to succeed. Otherwise you lose.
+
+-Dice rolls to see missions success
+-Win when predetermined number of missions success are achieved.
+-Failing missions has consequences
+
+Rules (Multi-Ship):
+-Same setup, just missions happen differently
+-Mission objectives are competitive. Some are critical, others are optional. 
+-Only one crew can win the mission
+
+
+
+Phases: Mission Announced, Mission Assigned, Mission Start, Mission Complete
